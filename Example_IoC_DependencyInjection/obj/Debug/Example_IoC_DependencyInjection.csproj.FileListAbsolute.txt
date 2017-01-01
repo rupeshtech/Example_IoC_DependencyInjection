@@ -1,0 +1,6 @@
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\bin\Debug\Example_IoC_DependencyInjection.exe.config
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\bin\Debug\Example_IoC_DependencyInjection.exe
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\bin\Debug\Example_IoC_DependencyInjection.pdb
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\obj\Debug\Example_IoC_DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\obj\Debug\Example_IoC_DependencyInjection.exe
+C:\Users\test\Google Drive\GitHub\Example_IoC_DependencyInjection\Example_IoC_DependencyInjection\obj\Debug\Example_IoC_DependencyInjection.pdb
